@@ -1,0 +1,28 @@
+<div class="div-wraping">
+  <form #userForm="ngForm" class="text-center" (ngSubmit)="login()">
+    <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+    <div>
+      <label>Name</label>
+      <div class="form-floating">
+        <input placeholder="Name" class="form-control" id="floatingInput" type="text" [(ngModel)]="use.Name"
+          name="Name" />
+      </div>
+      <label>Password</label>
+      <div class="form-floating">
+        <input class="form-control" placeholder="Password" id="floatingPassword" type="text" [(ngModel)]="use.Password"
+          name="Password" required />
+      </div>
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+      </div>
+      <div *ngIf="isInvalid" class="worrning">
+        Invalid password or name</div>
+      <div>
+        <input class="w-100 btn btn-lg btn-primary" type="submit" value="ok" />
+      </div>
+      <a routerLink="/register">Don't have an account? Sign Up</a>
+    </div>
+  </form>
+</div>

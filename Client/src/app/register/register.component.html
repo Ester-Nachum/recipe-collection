@@ -1,0 +1,37 @@
+<form (ngSubmit)="Register()" [formGroup]="myForm">
+  <div>
+    <label>code</label>
+    <input type="number" formControlName="Code" [(ngModel)]="re.Code" name="code" />
+    <div *ngIf="myForm.controls['Code'].touched && myForm.controls['Code'].errors" class="worrning">
+      you must enter code
+    </div>
+    <div>
+      <label>name</label>
+      <input type="text" formControlName="Name" [(ngModel)]="re.Name" name="name" />
+      <div *ngIf="myForm.controls['Name'].touched && myForm.controls['Name'].errors" class="worrning">
+        you must enter name
+      </div>
+    </div>
+    <div>
+      <label>address</label>
+      <input type="text" [(ngModel)]="re.Address" name="Address" />
+    </div>
+    <div>
+      <label>mail</label>
+      <input type="text" formControlName="Mail" [(ngModel)]="re.Mail" name="mail" />
+    </div>
+    <div *ngIf="myForm.controls['Mail'].touched&&myForm.controls['Mail'].errors" class="worrning">there isnt @!</div>
+    <div>
+      <label>password</label>
+      <input type="text" formControlName="Pass" [(ngModel)]="re.Password" name="password" />
+    </div>
+    <div *ngIf="
+                  myForm.controls['Pass'].touched &&
+                  myForm.controls['Pass'].errors
+                " class="worrning">
+      you must enter password
+    </div>
+    <input type="submit" value="submit" />
+  </div>
+  <!-- [disabled] ="!myForm.errors" -->
+</form>

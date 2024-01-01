@@ -1,0 +1,50 @@
+<hr class="featurette-divider">
+<div class="row featurette" id="big">
+    <div class="col-md-7">
+        <div class="lead">
+            <b>{{myRecipe.RecipeName}} Recipe</b>
+        </div>
+
+        <div class="lead">
+            <b>Recipe code: </b>
+            {{myRecipe.RecipeCode}}
+        </div>
+
+        <div class="lead">
+            <b>Category: </b>
+            <img class="icon" src="../../assets/icon/salad.png">
+            {{myRecipe.CategoryCode}}
+        </div>
+
+        <div class="lead">
+            <b>Preparation time: </b>
+            {{myRecipe.PreparationTime|time}}
+        </div>
+
+        <div class="lead">
+            <b>Difficulty: </b>
+            <ng-container *ngFor="let i of [].constructor(myRecipe.Difficulty)">*</ng-container>
+        </div>
+
+        <div class="lead">
+            <b>Date add recipe to site: </b>
+            {{myRecipe.DateAddRecipeToSite|date}}
+        </div>
+
+        <div class="lead">
+            <b>Ingredients: </b>
+            <li *ngFor="let x of myRecipe.ListOfComponents">{{x}}</li>
+        </div>
+
+        <div class="lead">
+            <b>Preparation: </b>
+            <li *ngFor="let x of myRecipe.Preparation">{{x}}</li>
+        </div>
+
+        <button *ngIf="myRecipe.UserCode==userId" name="cd" (click)="deleteRecipe()">Delete recipe</button>
+        <div id="imgbig">
+
+            <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" class="img"
+                src={{myRecipe.PictureSrc}}>
+        </div>
+    </div>

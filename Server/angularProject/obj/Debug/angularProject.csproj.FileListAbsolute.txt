@@ -1,0 +1,349 @@
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\angularProject.dll.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\angularProject.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\angularProject.pdb
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\csc.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\csc.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\csc.rsp
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\csi.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\csi.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\csi.rsp
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.AppContext.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Collections.Immutable.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Console.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Globalization.Calendars.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.IO.Compression.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.IO.FileSystem.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Net.Http.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Net.Sockets.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Reflection.Metadata.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.ValueTuple.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Xml.XPath.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\vbc.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\vbc.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\vbc.rsp
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\VBCSCompiler.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\roslyn\VBCSCompiler.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\Newtonsoft.Json.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Net.Http.Formatting.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Web.Http.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Web.Http.WebHost.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\Newtonsoft.Json.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Net.Http.Formatting.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Web.Http.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Web.Http.WebHost.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\obj\Debug\angularProject.csproj.CoreCompileInputs.cache
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\obj\Debug\angularProject.csproj.CopyComplete
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\obj\Debug\angularProject.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\obj\Debug\angularProject.pdb
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Web.Cors.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Web.Http.Cors.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\bin\System.Web.Http.Cors.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\angularProject\angularProject\obj\Debug\angularProject.csproj.AssemblyReference.cache
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\angularProject.dll.config
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\angularProject.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\angularProject.pdb
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\csc.exe
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\csc.exe.config
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\csc.rsp
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\csi.exe
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\csi.exe.config
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\csi.rsp
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.AppContext.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Collections.Immutable.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Console.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.IO.Compression.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.IO.FileSystem.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Net.Http.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Net.Sockets.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.ValueTuple.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Xml.XPath.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\vbc.exe
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\vbc.exe.config
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\vbc.rsp
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\VBCSCompiler.exe
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\roslyn\VBCSCompiler.exe.config
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\Newtonsoft.Json.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Net.Http.Formatting.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Web.Cors.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Web.Http.Cors.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Web.Http.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Web.Http.WebHost.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Web.Http.Cors.xml
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\Newtonsoft.Json.xml
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Net.Http.Formatting.xml
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Web.Http.xml
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\System.Web.Http.WebHost.xml
+C:\שנה ב\angular\angularProject\angularProject\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\שנה ב\angular\angularProject\angularProject\angularProject\obj\Debug\angularProject.csprojAssemblyReference.cache
+C:\שנה ב\angular\angularProject\angularProject\angularProject\obj\Debug\angularProject.csproj.CopyComplete
+C:\שנה ב\angular\angularProject\angularProject\angularProject\obj\Debug\angularProject.dll
+C:\שנה ב\angular\angularProject\angularProject\angularProject\obj\Debug\angularProject.pdb
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\obj\Debug\angularProject.csproj.AssemblyReference.cache
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\obj\Debug\angularProject.csproj.CoreCompileInputs.cache
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\obj\Debug\angularProject.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\obj\Debug\angularProject.pdb
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\angularProject.dll.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\angularProject.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\angularProject.pdb
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\csc.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\csc.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\csc.rsp
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\csi.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\csi.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\csi.rsp
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.AppContext.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Collections.Immutable.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Console.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Globalization.Calendars.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.IO.Compression.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.IO.FileSystem.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Net.Http.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Net.Sockets.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Reflection.Metadata.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.ValueTuple.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Xml.XPath.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\vbc.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\vbc.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\vbc.rsp
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\VBCSCompiler.exe
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\roslyn\VBCSCompiler.exe.config
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\Newtonsoft.Json.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Net.Http.Formatting.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Web.Cors.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Web.Http.Cors.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Web.Http.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Web.Http.WebHost.dll
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Web.Http.Cors.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\Newtonsoft.Json.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Net.Http.Formatting.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Web.Http.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\System.Web.Http.WebHost.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\שנת פב\2\כהן אפרת\angular\AngularProject\‏‏תיקיה חדשה\angularProject\angularProject\obj\Debug\angularProject.csproj.CopyComplete
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\angularProject.dll.config
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\angularProject.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\angularProject.pdb
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\csc.exe
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\csc.exe.config
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\csc.rsp
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\csi.exe
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\csi.exe.config
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\csi.rsp
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.AppContext.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Console.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Net.Http.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\vbc.exe
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\vbc.exe.config
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\vbc.rsp
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\Newtonsoft.Json.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Web.Cors.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Web.Http.Cors.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Web.Http.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Web.Http.Cors.xml
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\Newtonsoft.Json.xml
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Web.Http.xml
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\obj\Debug\angularProject.csprojAssemblyReference.cache
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\obj\Debug\angularProject.csproj.CoreCompileInputs.cache
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\obj\Debug\angularProject.csproj.CopyComplete
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\obj\Debug\angularProject.dll
+C:\Users\user1\תכנות\אנגולר\ProjectAngular\Server\angularProject\obj\Debug\angularProject.pdb
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\angularProject.dll.config
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\angularProject.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\angularProject.pdb
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\csc.exe
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\csc.exe.config
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\csc.rsp
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\csi.exe
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\csi.exe.config
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\csi.rsp
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.AppContext.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Console.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Net.Http.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\vbc.exe
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\vbc.exe.config
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\vbc.rsp
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\Newtonsoft.Json.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Web.Cors.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Web.Http.Cors.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Web.Http.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Web.Http.Cors.xml
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\Newtonsoft.Json.xml
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Web.Http.xml
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\obj\Debug\angularProject.csproj.AssemblyReference.cache
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\obj\Debug\angularProject.csproj.CoreCompileInputs.cache
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\obj\Debug\angularProject.csproj.CopyComplete
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\obj\Debug\angularProject.dll
+C:\Users\user1\תכנות\Angular\ProjectAngular\Server\angularProject\obj\Debug\angularProject.pdb

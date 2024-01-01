@@ -1,0 +1,28 @@
+<div id="all">
+
+    <aside>
+        <div>
+            <p><u>Filter by:</u></p>
+            <div>
+                <label>Category:</label>
+                <select type="text" [(ngModel)]="filterC">
+                    <option>all</option>
+                    <option>Cooking</option>
+                    <option>Baking</option>
+                    <option>Conditur</option>
+                </select>
+            </div>
+            <div>
+                <label>Preparation Time</label>
+                <input type="number" [(ngModel)]="filterP">
+            </div>
+            <div>
+                <label>Level of difficult</label>
+                <input type="number" [(ngModel)]="filterL">
+            </div>
+            <button (click)="FilterSearch()">search</button>
+        </div>
+    </aside>
+    <label>{{message}}</label>
+    <app-small-recipe *ngFor="let x of arrFilter" [myRecipe]="x"></app-small-recipe>
+</div>

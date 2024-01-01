@@ -1,0 +1,65 @@
+<form (ngSubmit)="addRecipe()">
+    <div>
+        <div>
+        <label>name:</label></div>
+        <div><input type="text"  [(ngModel)]="addNewRecipe.RecipeName"name="name"/>
+        </div>
+
+        <div>
+        <label>category:</label> 
+       </div>
+        <select type="text" [(ngModel)]="addNewRecipe.CategoryCode"name="category">
+            <option>Cooking</option>
+            <option>Baking</option>
+            <option>Conditur</option>
+        </select>
+        <div>
+        <label>time preparation:</label></div>
+        <div><input type="text" [(ngModel)]="addNewRecipe.PreparationTime" name="time"/></div>
+
+      <div>
+        <label>difficulty:</label>
+    </div>
+        <div>
+            <select [(ngModel)]="addNewRecipe.Difficulty" name="difficulty">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+        </select >
+    </div>
+
+        <div>
+        <label>Ingredients:</label></div>
+        <div *ngFor="let x of inputs ,let i=index">
+            <input type="text" name="Ingreadients" (input)="addInput()" [(ngModel)]="x.line" name="ingredients">
+        </div>
+        
+        <div>
+           <label>preparation:</label> 
+        </div>
+        <div *ngFor="let x of inputs2,let i=index">
+            <input type="text" name="inputIngredient" (input)="add()" [(ngModel)]="x.line" name="Instructions">
+        </div>
+
+        <div>
+            <label>user Code:</label>
+        </div>
+            <div>
+                <input type="text" [(ngModel)]="addNewRecipe.UserCode" name="user">
+        </div>
+
+        <div>
+            <label>Picture Src:</label>
+        </div>
+            <div>
+            <input type="text"[(ngModel)]="addNewRecipe.PictureSrc"name="picture">
+        </div>
+
+        <div>
+            <input type="submit" >
+        </div>
+
+    </div>
+</form>

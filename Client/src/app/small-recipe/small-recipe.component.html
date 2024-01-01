@@ -1,0 +1,17 @@
+<form (click)="details(myRecipe.RecipeCode)" class="div">
+    <div>
+        <img class="img" src={{myRecipe.PictureSrc}}>
+    </div>
+    <div>
+        <u><b>{{myRecipe.RecipeName}}</b></u>
+    </div>
+    <div>
+        <label>Preparation Time: </label>
+        {{myRecipe.PreparationTime|time}}
+    </div>
+    <div>
+        <label>Difficulty: </label>
+
+        <ng-container *ngFor="let i of [].constructor(myRecipe.Difficulty)">*</ng-container>
+    </div>
+</form>
