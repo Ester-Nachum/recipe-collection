@@ -3,7 +3,6 @@
 
 Collection Recipe is a web application developed using Angular for the client-side and C# for the server-side. It provides functionality for managing recipes, including adding, deleting, and displaying recipes. Additionally, the system incorporates user management features.
 
-Certainly! Here is the "Getting Started" section that you can copy and paste into your README file:
 
 ## Getting Started
 
